@@ -1,2 +1,2 @@
 # DotNet_WSJ
-A don't net version of WJR
+A DotNet version of WJR
